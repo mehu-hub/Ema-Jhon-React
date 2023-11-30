@@ -1,0 +1,16 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+} 
+.nav-item{ 
+    display: flex;
+    gap: 30px;
+}
+.nav-item a{
+    color: azure;
+}
