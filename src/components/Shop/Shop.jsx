@@ -22,7 +22,7 @@ const Shop = () => {
                 }
             </div>
             <div className="order-container">
-                <h2>Order Summary</h2>
+                <h2></h2>
             </div>
         </div>
     );
