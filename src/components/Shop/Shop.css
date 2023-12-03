@@ -17,15 +17,8 @@
     border: 2px solid orange;
     height: 800px;
     border-radius: 10px;
-}
-
+} 
 .order-summary{
     text-align: center;
     font-size: 25px;
-}
-.order-container p{
-    font-weight: 600;
-    font-size: 20px;
-    color: rgb(241, 11, 11);
-    padding: 15px;
-}
+} 

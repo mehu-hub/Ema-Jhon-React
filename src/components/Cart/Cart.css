@@ -1,0 +1,28 @@
+.cart-list{
+    margin: 40px;
+}
+.cart-list p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.cart-btn{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 15px;
+} 
+.clear-btn{
+    padding: 15px;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+
+}
+.review-btn{
+    padding: 15px;
+    font-size: 18px;
+    background-color: orange;
+    color: white; 
+    border-style: none;
+}
