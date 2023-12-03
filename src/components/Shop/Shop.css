@@ -1,5 +1,6 @@
 .shop-container{
     display: grid;
+    gap: 20px;
     grid-template-columns: 4fr 1fr;
 }
 .products-container{
@@ -11,9 +12,20 @@
 }
 
 .order-container{
-    margin-top: 50px;
-    margin-right: 50px;
-    background-color: rgb(255, 208, 121);
+    margin-top: 50px; 
+    background-color: rgb(247, 239, 225);
+    border: 2px solid orange;
     height: 800px;
     border-radius: 10px;
+}
+
+.order-summary{
+    text-align: center;
+    font-size: 25px;
+}
+.order-container p{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(241, 11, 11);
+    padding: 15px;
 }

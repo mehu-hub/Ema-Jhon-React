@@ -1,6 +1,5 @@
 .product{ 
-    border-radius: 10px;
-    width: 400px;  
+    border-radius: 10px; 
     height: 600px;
     border: 1px solid gray;
     position: relative;
@@ -29,6 +28,7 @@
     color: grey;
 }
 .add-to-cart{   
+    color: rgb(48, 48, 48);
     width: 100%;
     padding: 10px;
     background: #f7a72f;
